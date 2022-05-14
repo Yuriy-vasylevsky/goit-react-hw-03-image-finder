@@ -2,7 +2,7 @@
   "name": "my-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yuriy-vasylevsky.github.io/my-react/",
+  "homepage": "http://yuriy-vasylevsky.github.io/goit-react-hw-03-image-finder/",
   "dependencies": {
     "@chakra-ui/spinner": "^1.2.6",
     "@tanem/react-nprogress": "^5.0.0",
